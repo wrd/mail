@@ -25,7 +25,6 @@ pip-log.txt
 .coverage
 .tox
 nosetests.xml
-htmlcov
 
 # Translations
 *.mo
@@ -42,5 +41,7 @@ output/*/index.html
 # Sphinx
 docs/_build
 
-# ViM
+# UndoTree
 *.un~
+
+.DS_Store
